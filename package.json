@@ -1,7 +1,7 @@
 {
   "name": "employee-project",
   "version": "1.0.0",
-  "description": "This is a employee project with using webpack,babel,webpack-dev-server and Es6 Modules",
+  "description": "This is a employee project with using Webpack, Babel, Webpack-dev-server and ES6 modules.",
   "main": "./src/index.js",
   "scripts": {
     "test": "This is a test",
@@ -12,7 +12,7 @@
     "employee",
     "project"
   ],
-  "author": "Mustafa Murat Coşkun",
+  "author": "Berkay Akgürgen",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.1.2",
