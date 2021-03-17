@@ -1,0 +1,44 @@
+{
+    "employees": [
+        {
+            "name":"Berkay Akgürgen",
+            "department": "Software Devolopment",
+            "salary": 5000
+        },
+        {
+            "name":"Tuğçe Nur İbik",
+            "department": "UX/UI Designer",
+            "salary": 4500
+        },
+        {
+            "name":"Mustafa Küçük",
+            "department": "Data Science",
+            "salary": 4900
+        },
+        {
+            "name":"Aslı Kızıl",
+            "department": "Customer Success Manager",
+            "salary": 6000
+        },
+        {
+            "name":"Batuhan Albayrak",
+            "department": "Accountancy",
+            "salary": 4200
+        },
+        {
+            "name":"Kayhan Demir",
+            "department": "Software Devolopment",
+            "salary": 5000
+        },
+        {
+            "name":"Zeynep Kaya",
+            "department": "Mobile Development",
+            "salary": 5300
+        },
+        {
+            "name":"Atilla Korkmaz",
+            "department": "Back-End Devolopment",
+            "salary": 5000
+        }
+    ]
+}
